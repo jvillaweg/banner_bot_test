@@ -1,4 +1,4 @@
-service: banner-bot-test
+service: banner_bot-test
 
 provider:
   name: aws
